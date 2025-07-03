@@ -122,9 +122,13 @@ text-shadow: 0px 0px 1px #ff0000;}
 .input1 {
   padding: 10px 10px;
   margin-bottom: 15px;
+  border-radius: 10px;
+  border: none;
 }
 
 .input2 {
   padding: 10px 10px;
   margin-bottom: 15px;
+   border-radius: 10px;
+  border: none;
 }
